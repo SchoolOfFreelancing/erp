@@ -1,5 +1,4 @@
-# Hands-On Training for Effective ERP Solutions
-### Module: Hands-On Support and Training for Odoo ERP Solutions
+# Hands-On Training and Support for Odoo ERP Solutions
 
 Empowering Proficiency in Odoo ERP through Interactive Learning and Support
 
